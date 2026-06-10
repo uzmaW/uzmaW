@@ -15,7 +15,6 @@ I'm a **Full-Stack Developer** passionate about building scalable enterprise app
 ### Enterprise & Systems
 - **[school_erp](https://github.com/uzmaW/school_erp)** - Comprehensive School ERP Management System
 - **[phenix-php8.4](https://github.com/uzmaW/phenix-php8.4)** - PHP Phenix Framework - Enterprise application development
-- **[erpal](https://github.com/uzmaW/erpal)** - ERP System with PHP
 - **[harec](https://github.com/uzmaW/harec)** - Inventory Control Module in Java
 
 ### Modern Web Applications
@@ -26,8 +25,8 @@ I'm a **Full-Stack Developer** passionate about building scalable enterprise app
 
 ### AI & Advanced Projects
 - **[dapps-nextjs](https://github.com/uzmaW/dapps-nextjs)** - Learning dApps with Next.js and Ether.js
-- **[basic-ai-chat](https://github.com/uzmaW/basic-ai-chat)** - AI-powered chat application
 - **[go-fintech](https://github.com/uzmaW/go-fintech)** - Financial technology project in Go
+- **[basic-ai-chat](https://github.com/uzmaW/basic-ai-chat)** - AI-powered chat application
 
 ### Visualization & Tools
 - **[d3-org-tree](https://github.com/uzmaW/d3-org-tree)** - Customizable org tree visualization with D3.js
