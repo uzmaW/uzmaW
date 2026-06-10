@@ -42,9 +42,8 @@ I'm a **Full-Stack Developer** passionate about building scalable enterprise app
 - DevOps & System Architecture
 - Open Source Contributions
 
-## 📊 Quick Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=uzmaW&show_icons=true&theme=default)
+
 
 ---
 
