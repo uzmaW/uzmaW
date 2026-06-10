@@ -15,18 +15,17 @@ I'm a **Full-Stack Developer** passionate about building scalable enterprise app
 ### Enterprise & Systems
 - **[school_erp](https://github.com/uzmaW/school_erp)** - Comprehensive School ERP Management System
 - **[phenix-php8.4](https://github.com/uzmaW/phenix-php8.4)** - PHP Phenix Framework - Enterprise application development
-- **[harec](https://github.com/uzmaW/harec)** - Inventory Control Module in Java
+- **[Vehicle inventory management](https://github.com/uzmaW/vehicle-system)** - Inventory Control Module in Java
 
 ### Modern Web Applications
-- **[ecommerce-nextjs](https://github.com/uzmaW/ecommerce-nextjs)** - Full-stack e-commerce platform with Next.js
+- **[ecommerce-php](https://github.com/uzmaW/equipment-marketplace)** -  E-commerce marketplace
 - **[vehicle-system](https://github.com/uzmaW/vehicle-system)** - Comprehensive vehicle management system
 - **[crowdfund](https://github.com/uzmaW/crowdfund)** - Vue-based crowdfunding application
-- **[laravel-vue-crud-starter](https://github.com/uzmaW/laravel-vue-crud-starter)** - Laravel 8 + Vue 2 + AdminLTE 3 CRUD template
 
 ### AI & Advanced Projects
 - **[dapps-nextjs](https://github.com/uzmaW/dapps-nextjs)** - Learning dApps with Next.js and Ether.js
 - **[go-fintech](https://github.com/uzmaW/go-fintech)** - Financial technology project in Go
-- **[basic-ai-chat](https://github.com/uzmaW/basic-ai-chat)** - AI-powered chat application
+- **[humanoid robot book with ai powered chat](https://github.com/uzmaW/physical-ai-textbook)** - AI-powered book and chat application
 
 ### Visualization & Tools
 - **[d3-org-tree](https://github.com/uzmaW/d3-org-tree)** - Customizable org tree visualization with D3.js
