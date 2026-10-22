@@ -6,7 +6,7 @@ I'm a **Full-Stack Developer** passionate about building scalable enterprise app
 
 **Languages:** JavaScript • TypeScript • Python • Go • PHP • Java  
 **Frontend:** Next.js • Vue • React • Angular
-**Backend:** Node.js • FastAPI • Laravel • Symfony • Yii • Wordpress 
+**Backend:** Node.js • FastAPI • Laravel • Symfony • Yii • Wordpress
 **Frameworks:** Phenix (PHP8.4) • Erpal • Django  
 **Other:** Web3/dApps • AI/ML • Docker • DevOps
 
