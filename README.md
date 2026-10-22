@@ -5,8 +5,8 @@ I'm a **Full-Stack Developer** passionate about building scalable enterprise app
 ## 🚀 Tech Stack
 
 **Languages:** JavaScript • TypeScript • Python • Go • PHP • Java  
-**Frontend:** Next.js • Vue • React  
-**Backend:** Node.js • FastAPI • Laravel • Symfony  
+**Frontend:** Next.js • Vue • React • Angular
+**Backend:** Node.js • FastAPI • Laravel • Symfony • Yii • Wordpress 
 **Frameworks:** Phenix (PHP8.4) • Erpal • Django  
 **Other:** Web3/dApps • AI/ML • Docker • DevOps
 
@@ -23,7 +23,6 @@ I'm a **Full-Stack Developer** passionate about building scalable enterprise app
 - **[crowdfund](https://github.com/uzmaW/crowdfund)** - Vue-based crowdfunding application
 
 ### AI & Advanced Projects
-- **[dapps-nextjs](https://github.com/uzmaW/dapps-nextjs)** - Learning dApps with Next.js and Ether.js
 - **[go-fintech](https://github.com/uzmaW/go-fintech)** - Financial technology project in Go
 - **[humanoid robot book with ai powered chat](https://github.com/uzmaW/physical-ai-textbook)** - AI-powered book and chat application
 
